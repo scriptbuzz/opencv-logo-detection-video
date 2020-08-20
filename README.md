@@ -8,7 +8,7 @@ Logo detection pipelines typically include various stages from crawling the web 
 
 Logos in images are not always ideally positioned for easy detection. Logos can be warped, cropped, reduced in quality, partially obstructed, improperly color-corrected, etc. These challenges need to be addressed by the image processing tools to be effective in identifying the presence of a logo in an image. 
 
-This video demosntrates capabilties of OpenCV in logo detection in support of a customer prototype using a Jupyter notebook for demo purposes: 
+This video demonstrates how OpenCV can be used in logo detection:
 https://youtu.be/G90YU0Z4c5Q
 
 
